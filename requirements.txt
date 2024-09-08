@@ -1,7 +1,6 @@
-
 # Data Manipulation and Visualization Libraries
 pandas==1.5.3
-numpy==1.24.2
+numpy==1.23.5  # Downgraded for TensorFlow compatibility
 matplotlib==3.6.3
 seaborn==0.12.2
 
@@ -18,4 +17,5 @@ keras==2.12.0
 # Optional Libraries (if uncommented in the future)
 # xgboost==1.7.5
 # catboost==1.1.1
+
 
