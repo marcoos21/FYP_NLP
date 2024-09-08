@@ -1,0 +1,23 @@
+
+# Data Manipulation and Visualization Libraries
+pandas==1.5.3
+numpy==1.24.2
+matplotlib==3.6.3
+seaborn==0.12.2
+
+# NLP Libraries
+nltk==3.8.1
+scikit-learn==1.2.2
+# wordcloud is commented out in your code, include it if needed
+# wordcloud==1.8.1
+
+# TensorFlow and Keras
+tensorflow==2.12.0
+keras==2.12.0
+
+# Optional Libraries (if uncommented in the future)
+# xgboost==1.7.5
+# catboost==1.1.1
+
+# Miscellaneous
+warnings
